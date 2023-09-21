@@ -20,7 +20,7 @@
 , "no_full_access_mail": "If you do not have access to a <q>Full Access</q> account, please mail {{ mailaddr }}"
 , "warning_version": "<b>Warning!</b> You are running Xumm version <b>{{ current_version }}</b> while version <b>{{ latest_version }}</b> is already available. <b>Please update Xumm</b> to prevent questions about issues already addressed in the updated Xumm version(s)."
 , "ticket_not_found": "Ticket cannot be found."
-, "trouble_finding_ticket": "We apologize but we are having trouble displaying your support ticket. If wouldn't mind creating a new ticket we would be happy to assist you. Again, sorry for the inconvenience... 🙏."
+, "trouble_finding_ticket": "We apologize but we are having trouble displaying your support ticket. Sorry for the inconvenience... 🙏."
 , "new_ticket": "New Ticket"
 , "ask_q": "Ask a question"
 , "maintenance": "Our support center is currently under maintenance. Please check back later."
