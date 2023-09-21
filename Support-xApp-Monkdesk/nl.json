@@ -27,7 +27,7 @@
 , "how_can_we_help": "Hoe kunnen we helpen?"
 , "agents_will_help": "{{ agent_names }} zullen je z.s.m. helpen."
 , "ticket_state_closed": "Gesloten"
-, "ticket_state_pending": "Afwachtende"
+, "ticket_state_pending": "In afwachting"
 , "ticket_state_awaiting_your_reply": "In afwachting van je reactie"
 , "ticket_no": "Ticket #"
 , "assignee:": "Verantwoordelijke:"
