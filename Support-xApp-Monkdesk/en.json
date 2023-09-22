@@ -3,7 +3,7 @@
 , "backhome": "Back (Home)"
 , "ticket_received": "Ticket {{ ticket }} received."
 , "will_review": "Thank you! We will carefully review your request and <b>we will send you a reply within <u>one working day</u></b>."
-, "ticket_incomplete": "Warning! Your ticket is imcomplete. Please add all required information and submit again."
+, "ticket_incomplete": "Warning! Your ticket is incomplete. Please add all required information and submit again."
 , "about_what": "What's this ticket about?"
 , "allow_to_serve_better": "To allow us to serve you better, please try to add as much information as possible about the issue you are encountering. <b>What were you trying to do</b> before the issue occurred? <b>Where did you try this?</b> (In Xumm? An external website?) Is there an <b>error message</b>? Would a <b>screenshot help explain</b> the issue?"
 , "please_describe": "Please describe your question / issue / suggestion / ... in as much detail as possible."
