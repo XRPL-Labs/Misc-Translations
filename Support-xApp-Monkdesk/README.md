@@ -6,6 +6,13 @@ Translation files (`langcode.json`, langcode lower case) are used in the Xumm Su
 
 When merged, if the JSON is valid, updates will be published every two hours.
 
+# Credits
+
+- Thank you @rsteimen for German 🇩🇪 @ #4
+- Thank you @ihomp for Russian 🇷🇺 @ #3
+- Thank you @silkjaer for Danish 🇩🇰 @ #2
+- Thank you @ekiserrepe for Spanish 🇪🇸 @ #1
+
 ## Base translation(s)
 
 Base Translations are in English (`en.json`). If labels are missing in other languages, they automatically fall back to English.
