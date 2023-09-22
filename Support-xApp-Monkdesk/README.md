@@ -8,6 +8,12 @@ When merged, if the JSON is valid, updates will be published every two hours.
 
 # Credits
 
+
+- Thank you [@wojake](https://github.com/wojake) for Insonesian Bahasa 🇮🇩 @ [#10](https://github.com/XRPL-Labs/Misc-Translations/pull/10)
+- Thank you [@Robert-XRPLLabs](https://github.com/Robert-XRPLLabs) for Estonian 🇪🇪 @ [#9](https://github.com/XRPL-Labs/Misc-Translations/pull/9)
+- Thank you [@mworks-proj](https://github.com/mworks-proj) for French 🇫🇷 @ [#8](https://github.com/XRPL-Labs/Misc-Translations/pull/8)
+- Thank you [@zgrguric](https://github.com/zgrguric) for Croatian 🇭🇷 @ [#7](https://github.com/XRPL-Labs/Misc-Translations/pull/7)
+- Thank you [@develoQ](https://github.com/develoQ) for Japanese 🇯🇵 @ [#6](https://github.com/XRPL-Labs/Misc-Translations/pull/6)
 - Thank you [@jonaagenilsen](https://github.com/jonaagenilsen) for Norwegian 🇳🇴 @ [#5](https://github.com/XRPL-Labs/Misc-Translations/pull/5)
 - Thank you [@rsteimen](https://github.com/rsteimen) for German 🇩🇪 @ [#4](https://github.com/XRPL-Labs/Misc-Translations/pull/4)
 - Thank you [@ihomp](https://github.com/ihomp) for Russian 🇷🇺 @ [#3](https://github.com/XRPL-Labs/Misc-Translations/pull/3)
