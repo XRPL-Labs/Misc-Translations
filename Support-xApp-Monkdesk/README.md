@@ -33,7 +33,7 @@ Please note:
 
 # Contributing
 
-1. Create/edit the language file (`langcode.json`), e.g. `jp.json`
+1. Create/edit the language file (`langcode.json`), e.g. `ja.json`
 2. If you are creating, please copy the contents of `en.json`
 3. If you are editing, please check if new keys have been added to `en.json`, potentially missing from your language of choice
 4. Make your changes.
