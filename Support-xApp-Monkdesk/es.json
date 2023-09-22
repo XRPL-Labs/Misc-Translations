@@ -55,6 +55,7 @@
 , "screenshots": "Capturas de pantalla"
 , "add_screenshots": "Añadir capturas de pantalla"
 , "tap_to_attach_screenshots": "Pulsa para adjuntar capturas de pantalla"
+, "timediff_format": "{{ ago }} {{ num }} {{ period }}"  
 , "timediff_years": "años"
 , "timediff_months": "meses"
 , "timediff_days": "días"
