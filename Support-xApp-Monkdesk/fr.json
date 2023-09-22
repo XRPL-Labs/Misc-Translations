@@ -55,7 +55,7 @@
   "screenshots": "Captures d'écran",
   "add_screenshots": "Ajouter des captures d'écran",
   "tap_to_attach_screenshots": "Appuyez pour joindre des captures d'écran",
-  "timediff_format": "{{ num }} {{ period }} {{ ago }}",
+  "timediff_format": "{{ ago }} {{ num }} {{ period }}",
   "timediff_years": "ans",
   "timediff_months": "mois",
   "timediff_days": "jours",
@@ -68,5 +68,5 @@
   "timediff_hour": "heure",
   "timediff_minute": "minute",
   "timediff_second": "seconde",
-  "timediff_ago": "il y a"
+  "timediff_ago": "Il y a"
 }
