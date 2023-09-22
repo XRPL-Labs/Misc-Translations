@@ -8,6 +8,7 @@ When merged, if the JSON is valid, updates will be published every two hours.
 
 # Credits
 
+- Thank you [@jonaagenilsen](https://github.com/jonaagenilsen) for Norwegian 🇳🇴 @ [#5](https://github.com/XRPL-Labs/Misc-Translations/pull/5)
 - Thank you [@rsteimen](https://github.com/rsteimen) for German 🇩🇪 @ [#4](https://github.com/XRPL-Labs/Misc-Translations/pull/4)
 - Thank you [@ihomp](https://github.com/ihomp) for Russian 🇷🇺 @ [#3](https://github.com/XRPL-Labs/Misc-Translations/pull/3)
 - Thank you [@silkjaer](https://github.com/silkjaer) for Danish 🇩🇰 @ [#2](https://github.com/XRPL-Labs/Misc-Translations/pull/2)
