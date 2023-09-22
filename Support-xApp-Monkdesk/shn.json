@@ -13,7 +13,7 @@
 , "open_again": "Për arsye sigurie, Shërbimet e XUMM Support xApp nuk kanë kohëzgjatje dhe lidhje rrjeti. Ju lutem hapni XUMM Support xApp prapë."
 , "reason:": "Arsye:"
 , "only_in_app": "XUMM Support është në dispozicion vetëm  <b>në aplikacion</b>."
-, "app_or_support_center": Ju lutem hapni Xumm Support me xApp të disponueshëm në Xumm ose vendosni një biletë mbështetëse në {{ qendër_mbështetëse }}."
+, "app_or_support_center":"Ju lutem hapni Xumm Support me xApp të disponueshëm në Xumm ose vendosni një biletë mbështetëse në {{ qendër_mbështetëse }}."
 , "support_center": "Qendra e mbështetjes Xumm"
 , "no_read_only": "XUMM Support nuk është në dispozicion të <q><b>vetëm lexo</b></q> llogarive."
 , "switch_full_access": "Ju lutem ndërroni llogarinë duke klikuar tek  <q><b>Ndrysho llogarinë</b></q>butoni në qoshen e djathtë për lart (tek llogaria juaj në Xumm)."
