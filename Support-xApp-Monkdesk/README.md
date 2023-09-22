@@ -8,8 +8,12 @@ When merged, if the JSON is valid, updates will be published every two hours.
 
 # Credits
 
+Special thank you to all these wonderful community members for their valuable contribution to XUMM (Xaman) 💝.
+
+Your kind hearted contribution has & will help the XUMM support team and countless XRPL users on XUMM that need the additional support to move forward with their journey.
+
 - Thank you [@maiwallet](https://github.com/maiwallet) for Japanese 🇯🇵 @ [#11](https://github.com/XRPL-Labs/Misc-Translations/pull/11)
-- Thank you [@wojake](https://github.com/wojake) for Insonesian Bahasa 🇮🇩 @ [#10](https://github.com/XRPL-Labs/Misc-Translations/pull/10)
+- Thank you [@suuf24](https://github.com/suuf24) for Bahasa Indonesia 🇮🇩 @ [#10](https://github.com/XRPL-Labs/Misc-Translations/pull/10)
 - Thank you [@Robert-XRPLLabs](https://github.com/Robert-XRPLLabs) for Estonian 🇪🇪 @ [#9](https://github.com/XRPL-Labs/Misc-Translations/pull/9)
 - Thank you [@mworks-proj](https://github.com/mworks-proj) for French 🇫🇷 @ [#8](https://github.com/XRPL-Labs/Misc-Translations/pull/8)
 - Thank you [@zgrguric](https://github.com/zgrguric) for Croatian 🇭🇷 @ [#7](https://github.com/XRPL-Labs/Misc-Translations/pull/7)
@@ -22,7 +26,7 @@ When merged, if the JSON is valid, updates will be published every two hours.
 
 ## Base translation(s)
 
-Base Translations are in English (`en.json`). If labels are missing in other languages, they automatically fall back to English.
+Base Translations are in English (**[en.json](https://github.com/XRPL-Labs/Misc-Translations/blob/main/Support-xApp-Monkdesk/en.json)**). If labels are missing in other languages, they automatically fall back to English.
 
 The language used to render the xApp:
 
