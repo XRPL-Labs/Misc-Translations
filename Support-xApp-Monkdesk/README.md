@@ -21,7 +21,7 @@ Base Translations are in English (`en.json`). If labels are missing in other lan
 The language used to render the xApp:
 
 1. Try Xumm Language (if present)
-2. Try OS Browser language (if presenrt)
+2. Try OS Browser language (if present)
 3. Fall back to default (English)
 
 ## Warnings
