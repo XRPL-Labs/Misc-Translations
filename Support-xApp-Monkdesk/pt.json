@@ -1,6 +1,6 @@
 {
-  "__LANGUAGE__": "Portuguese-Portugal"
-, "backhome": "Voltar (Home)"
+  "__LANGUAGE__": "Portuguese"
+, "backhome": "Voltar (Início)"
 , "ticket_received": "Ticket {{ ticket }} recebido."
 , "will_review": "Obrigado! Analisaremos cuidadosamente sua solicitação e <b>enviaremos uma resposta dentro de <u>um dia útil</u></b>."
 , "ticket_incomplete": "Atenção! Seu ticket está incompleto. Adicione todas as informações necessárias e envie novamente."
