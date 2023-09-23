@@ -12,6 +12,7 @@ Special thank you to all these wonderful community members for their valuable co
 
 Your kind hearted contribution has & will help the XUMM support team and countless XRPL users on XUMM that need the additional support to move forward with their journey.
 
+- Thank you [@stef-k](https://github.com/stef-k) for Greek 🇬🇷 @ [#19](https://github.com/XRPL-Labs/Misc-Translations/pull/19)
 - Thank you [@Aaditya-T](https://github.com/Aaditya-T) for Hindi 🇮🇳 @ [#17](https://github.com/XRPL-Labs/Misc-Translations/pull/17)
 - Thank you [@9oelm](https://github.com/9oelm) for Korean 🇰🇷 @ [#22](https://github.com/XRPL-Labs/Misc-Translations/pull/22)
 - Thank you [@thepolovsky](https://github.com/thepolovsky) for Portuguese 🇵🇹 @ [#16](https://github.com/XRPL-Labs/Misc-Translations/pull/16)
