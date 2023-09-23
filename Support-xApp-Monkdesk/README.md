@@ -47,9 +47,9 @@ Please note:
 
 # Contributing
 
-1. Create/edit the language file (`langcode.json`), e.g. `ja.json`
-2. If you are creating, please copy the contents of `en.json`
+1. Create/edit the language file (`langcode.json`), e.g. `ja.json` - if it doesn't exist:
+2. If you are creating, please copy the contents of `en.json`. Use the 2-char ISO language code.
 3. If you are editing, please check if new keys have been added to `en.json`, potentially missing from your language of choice
-4. Make your changes.
+4. Make your changes. Please keep translation vars, `{{ something }}` in place, untranslated, at a location in the sentence that makes sense from a grammatical point of view
 5. Copy the entire file contents, and use an [online JSON validator](https://jsonlint.com/) to check if it's still valid JSON
 6. Submit a Pull Request
