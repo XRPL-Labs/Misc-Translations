@@ -6,7 +6,7 @@
 , "ticket_incomplete": "¡Cuidado! Tu ticket está incompleto. Por favor, incluye toda la información solicitada y vuelve a enviarlo.."
 , "about_what": "¿Cuál es el motivo del ticket?"
 , "allow_to_serve_better": "Para poder ayudarte mejor, por favor, intenta añadir tanta informacióm como sea posible sobre el problema que estás encontrando. <b>¿Qué estabas intentando hacer</b> antes de que el problema ocurriese? <b>¿Dónde lo intentaste hacer?</b> (¿En Xumm? ¿En un sitio web externo?) ¿Hay algún <b>mensaje de error</b>? ¿Ayudaría una <b>captura de pantalla a explicar</b> el problema?"
-, "please_describe": "Por favor, describe tu pregunta / problema / sugerencia / ... con tanto detalle sea posible."
+, "please_describe": "Por favor, describe tu pregunta / problema / sugerencia / ... con tanto detalle como sea posible."
 , "tickets_title": "Tickets"
 , "loading": "Cargando..."
 , "session_expired": "Esta sesión xApp ha caducado."
