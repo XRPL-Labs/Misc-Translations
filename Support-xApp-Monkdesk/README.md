@@ -12,6 +12,7 @@ Special thank you to all these wonderful community members for their valuable co
 
 Your kind hearted contribution has & will help the XUMM support team and countless XRPL users on XUMM that need the additional support to move forward with their journey.
 
+- Thank you [@9oelm](https://github.com/9oelm) for Korean 🇰🇷 @ [#22](https://github.com/XRPL-Labs/Misc-Translations/pull/22)
 - Thank you [@maiwallet](https://github.com/maiwallet) for Japanese 🇯🇵 @ [#11](https://github.com/XRPL-Labs/Misc-Translations/pull/11)
 - Thank you [@suuf24](https://github.com/suuf24) for Bahasa Indonesia 🇮🇩 @ [#10](https://github.com/XRPL-Labs/Misc-Translations/pull/10)
 - Thank you [@Robert-XRPLLabs](https://github.com/Robert-XRPLLabs) for Estonian 🇪🇪 @ [#9](https://github.com/XRPL-Labs/Misc-Translations/pull/9)
