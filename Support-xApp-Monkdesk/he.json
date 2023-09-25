@@ -1,1 +1,74 @@
+{
+  "__LANGUAGE__": "עברית",
+  "backhome": "חזרה",
+  "ticket_received": "כרטיס {{ ticket }} התקבל.",
+  "will_review": "תודה! אנו נבדוק את הבקשה שלך בקפידה ואנו נשלח לך תשובה תוך יום עבודה אחד.",
+  "ticket_incomplete": "אזהרה! הכרטיס שלך אינו מלא. אנא הוסף את כל המידע הנדרש ושלח שוב.",
+  "about_what": "על מה הכרטיס הזה?",
+  "allow_to_serve_better": "כדי שנוכל לשרת אותך בצורה הטובה ביותר, אנא נסה להוסיף כמה שיותר מידע על הבעיה שבה אתה נתקל. מה ניסית לעשות לפני שהבעיה התרחשה? איפה ניסית את זה? (ב-Xumm? באתר חיצוני?) האם יש הודעת שגיאה? האם צילום מסך יעזור להסביר את הבעיה?",
+  "please_describe": "אנא תאר את השאלה / בעיה / הצעה / ... שלך בפירוט רב ככל האפשר.",
+  "tickets_title": "כרטיסים",
+  "loading": "טוען...",
+  "session_expired": "הפעלת xApp זו פג תוקפה.",
+  "open_again": "מסיבות אבטחה, הפעלות xApp של תמיכת XUMM הן קצרות מועד ומחוברות לרשת. אנא פתח שוב את xApp התמיכה של XUMM.",
+  "reason:": "סיבה:",
+  "only_in_app": "תמיכת XUMM זמינה רק באפליקציה.",
+  "app_or_support_center": "אנא פתח את תמיכת XUMM באמצעות ה-xApp הזמין ב-Xumm או שלח כרטיס תמיכה במרכז התמיכה.",
+  "support_center": "מרכז תמיכת Xumm",
+  "no_read_only": "תמיכת XUMM אינה זמינה עבור חשבונות רק לקריאה.",
+  "switch_full_access": "אנא עבור לחשבון גישה מלאה על ידי הקשה על הלחצן החלף חשבון בפינה העליונה הימנית (במסך הבית של חשבון XUMM שלך).",
+  "no_full_access_mail": "אם אין לך גישה לחשבון גישה מלאה, אנא שלח דוא"ל ל-{{ mailaddr }}",
+  "warning_version": "אזהרה! אתה מפעיל את Xumm בגירסה {{ current_version }} בעוד הגירסה {{ latest_version }} כבר זמינה. אנא עדכן את Xumm כדי למנוע שאלות לגבי בעיות שכבר טופלו בגירסאות Xumm המעודכנות.",
+  "ticket_not_found": "לא ניתן למצוא את הכרטיס.",
+  "trouble_finding_ticket": "מצטערים, אך אנו נתקלים בבעיה בעת הצגת כרטיס התמיכה שלך. סליחה על אי הנוחות... 🙏.",
+  "new_ticket": "כרטיס חדש",
+  "ask_q": "שאל שאלה",
+  "maintenance": "מרכז התמיכה שלנו נמצא כעת בשיפוצים. אנא חזור מאוחר יותר.",
+  "how_can_we_help": "כיצד נוכל לעזור?",
+  "agents_will_help": "{{ agent_names }} יעזור לך כאשר יוכל.",
+  "ticket_state_closed": "סגור",
+  "ticket_state_pending": "ממתין",
+  "ticket_state_awaiting_your_reply": "מחכה לתגובה שלך",
+  "ticket_no": "מספר כרטיס:",
+  "assignee:": "מטפל:",
+  "ticket_closed": "כרטיס זה סגור",
+  "support_agent": "נציג תמיכה",
+  "you": "אתה",
+  "attachment": "צירוף",
+  "attachments": "צרופים",
+  "reopen_ticket": "פתח מחדש כרטיס",
+  "write_reply": "כתוב תגובה",
+  "waiting_for_agent": "מחכה לנציג תמיכת XUMM",
+  "with_you_in": "נהיה איתך תוך יום עבודה אחד.",
+  "close_ticket": "סגור כרטיס",
+  "or": "או",
+  "add_reply": "הוסף תגובה",
+  "oops_didnt_work": "אוי, זה לא עבד. אנא נסה שוב.",
+  "message": "הודעה",
+  "subject": "נושא",
+  "submit": "שלח",
+  "submit_reply": "שלח תגובה",
+  "submit_and_close": "שלח וסגור כרטיס",
+  "any_last_comments": "האם יש לך הערות אחרונות או מילים טובות?",
+  "last_comment_optional": "הערה אחרונה (אופציונלי)",
+  "submit_ticket": "שלח כרטיס",
+  "screenshots": "צילומי מסך",
+  "add_screenshots": "הוסף צילומי מסך",
+  "tap_to_attach_screenshots": "הקש כדי לצרף צילומי מסך",
+  "timediff_format": "{{ num }} {{ period }} {{ ago }}"  
+  "timediff_years": "שנים"
+  "timediff_months": "חודשים"
+  "timediff_days": "ימים"
+  "timediff_hours": "שעות"
+  "timediff_minutes": "דקות"
+  "timediff_seconds": "שניות"
+  "timediff_year": "שנה"
+  "timediff_month": "חודש"
+  "timediff_day": "יום"
+  "timediff_hour": "שעה"
+  "timediff_minute": "דקה"
+  "timediff_second": "שנייה"
+  "timediff_ago": "לפני"
+}
+
 
