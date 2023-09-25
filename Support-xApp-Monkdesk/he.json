@@ -17,7 +17,7 @@
   "support_center": "מרכז תמיכת Xumm",
   "no_read_only": "תמיכת XUMM אינה זמינה עבור חשבונות רק לקריאה.",
   "switch_full_access": "אנא עבור לחשבון גישה מלאה על ידי הקשה על הלחצן החלף חשבון בפינה העליונה הימנית (במסך הבית של חשבון XUMM שלך).",
-  "no_full_access_mail": "אם אין לך גישה לחשבון גישה מלאה, אנא שלח דוא"ל ל-{{ mailaddr }}",
+  "no_full_access_mail": "אם אין לך גישה לחשבון גישה מלאה, אנא שלח דואר אלקטרוני ל-{{ mailaddr }}",
   "warning_version": "אזהרה! אתה מפעיל את Xumm בגירסה {{ current_version }} בעוד הגירסה {{ latest_version }} כבר זמינה. אנא עדכן את Xumm כדי למנוע שאלות לגבי בעיות שכבר טופלו בגירסאות Xumm המעודכנות.",
   "ticket_not_found": "לא ניתן למצוא את הכרטיס.",
   "trouble_finding_ticket": "מצטערים, אך אנו נתקלים בבעיה בעת הצגת כרטיס התמיכה שלך. סליחה על אי הנוחות... 🙏.",
