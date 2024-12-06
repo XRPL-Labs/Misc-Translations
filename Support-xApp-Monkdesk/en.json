@@ -71,5 +71,6 @@
 , "timediff_ago": "ago"
 , "top_faq": "These are the top most asked questions. Before asking in a support ticket, please see if these articles help you."
 , "welcome_to_support": "Welcome to Xaman Support!"
-, "submit_ticket_anyway": "If none of the above articles apply and / or after reading them, your question has still not been answered, you can proceed by submitting a Support Ticket."
+, "submit_ticket_anyway": "If none of the above articles apply and / or after reading them, your question has still not been answered, you can proceed by submitting a Support Ticket.",
+, "submit_ticket_anyway_btn": "Send ticket anyway"
 }
